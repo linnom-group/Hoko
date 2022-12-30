@@ -210,6 +210,7 @@ overflow:visible;
 	}
 	header.smaller #mainmenu a{
 	padding-top: 18px;
+	color: black;
 	padding-bottom:18px;
 	}
 	header.smaller #mainmenu li li a{
@@ -224,7 +225,7 @@ overflow:visible;
 	}
 	header.smaller {
 	height: 70px;
-	background:rgba(50,50,50,.95);
+	background:rgba(255,255,255,.95);
 	position:fixed;
 	z-index:1200 !important;
 	}
